@@ -21,10 +21,10 @@ Web development refers to the building, creating, and maintaining of websites. I
 <h2>Web Development can be classified into two ways:</h2>
 <h2><li> Frontend Development</h2>
   The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.
-  ![image](https://user-images.githubusercontent.com/77643994/194286259-8858ffc8-813d-4e92-b61a-516f68b0ede1.png)
+  ![image](https://github.com/its-red-eagle/Web-Technology/blob/main/Front-End-Frameworks-and-Libraries.png)
 <h2><li> Backened Development</li></h2>
   Backend is the server side of a website. It is the part of the website that users cannot see and interact. It is the portion of software that does not come in direct contact with the users. It is used to store and arrange data.
-  ![image](https://user-images.githubusercontent.com/77643994/194286640-7bef1795-3b3a-4e8d-bfeb-d3a1779d2bce.png)
+  ![image](https://github.com/its-red-eagle/Web-Technology/blob/main/Backend-design-roadmap.jpeg)
 <h2>Frontend Languages</h2> 
   The front end portion is built by using some languages which are discussed below:
 
